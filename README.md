@@ -691,7 +691,7 @@ def silnia(n):
     <td>Usuwa białe znaki z początku i końca.</td>
     <td>
     tekst = "     banan     "<br>
-    x = txt.strip()<br>
+    x = tekst.strip()<br>
     print("ze wszystkich owoców", x, "jest moim ulubionym") 
     </td>
     </tr>
