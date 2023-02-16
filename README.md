@@ -744,6 +744,7 @@ def silnia(n):
        ℹ️ Wskazówka
      </summary>
 
+
       > ``Palindrom`` – wyrażenie brzmiące tak samo czytane od lewej do prawej i od prawej do lewej. Przykładem palindromu jest: Kamil Ślimak. 
 
      </details>
