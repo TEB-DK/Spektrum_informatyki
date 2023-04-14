@@ -599,7 +599,7 @@ def silnia(n):
   from random import randint
 
   def czy_parzysta(x):
-    if x // 2:
+    if x % 2 == 0:
         return True
     else:
         return False
